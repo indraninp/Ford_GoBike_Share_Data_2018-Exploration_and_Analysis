@@ -1,4 +1,4 @@
-# Ford GoBike Share Data 2018- Exploration_and_Analysis
+# Ford GoBike Share Data 2018- Exploration and Analysis
 
 This project was completed as part of the course requirements for Data Analyst Nanodegree with Udacity.
 
